@@ -1,0 +1,9 @@
+#Seriously guys, stop commiting this to your git repo!
+classes/*
+dependency-cache/*
+resources/*
+sources/*
+taskLogs/*
+tmp/*
+!libs/inventoryhelper*.jar
+
