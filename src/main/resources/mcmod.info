@@ -1,0 +1,16 @@
+[
+{
+  "modid": "InventoryHelperMod",
+  "name": "Inventory Helper Mod",
+  "description": "Diese Mod zeigt in der Standard-Einstellung die Anzahl der belegten, teilweise belegten und nicht belegten Slots des Inventars als Overlay an.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Häckbänger"],
+  "credits": "Diese Mod wurde möglich gemacht durch die EB-APPS Company",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
